@@ -1489,6 +1489,18 @@ header .center-logo a.logo img {
   margin-right: 5px;
   line-height: 1;
 }
+#about img {
+  width: 500px;
+  height: 500px;
+}
+#about table {
+  margin-top: 20px;
+}
+#about td {
+  white-space: nowrap;
+  padding: 5px;
+  padding-right: 20px;
+}
 
 /* ===================================
     Team
