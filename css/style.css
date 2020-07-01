@@ -1489,10 +1489,10 @@ header .center-logo a.logo img {
   margin-right: 5px;
   line-height: 1;
 }
-#about img {
+/* #about img {
   width: 500px;
   height: 500px;
-}
+} */
 #about table {
   margin-top: 20px;
 }
