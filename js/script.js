@@ -199,6 +199,7 @@ jQuery(function ($) {
       .pauseFor(2000)
       .deleteAll()
       .typeString("Freelancer")
+      .pauseFor(2000)
       .start();
   }
 
